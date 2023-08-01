@@ -1,4 +1,4 @@
-### <h1> Olá, mundo! Gabby por aqui. 👋 </h1>
+### <h1> Olá, mundo! Gabby por aqui. 👋🏻 </h1>
 
 <p> 💻 Embarquei na jornada tech em 2022 e resolvi transicionar de carreira. <br>
     ⌨️ Estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
