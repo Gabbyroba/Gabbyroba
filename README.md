@@ -1,8 +1,8 @@
 ### <h1> Olá, mundo! Gabby por aqui. 👋🏻 </h1>
 
 <p> 💻 Embarquei na jornada tech em 2022 e resolvi transicionar de carreira. <br>
-    ⌨️ Estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
-    ☁️ Também estou em um curso intensivo de Soluções em Cloud Computing.</p>
+    ⌨️ Cursando o segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
+    ☁️ Finalizei um curso intensivo de Soluções em Cloud Computing.</p>
 
 <a href="https://www.linkedin.com/in/gabbyrb/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
