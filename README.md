@@ -20,10 +20,11 @@
 
 <img src="https://media.discordapp.net/attachments/1020872898048692295/1135651601676251176/Medium_Header.jpg?width=1440&height=360" target="_blank">
 
-<div align="center">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" " src="https://github-readme-stats.vercel.app/api?username=Gabbyroba&show_icons=true&theme=material-palenight" />
-  </a><a href="https://github.com/anuraghazra/convoychat">
+  </a>
+    <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabbyroba&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=material-palenight" />
   </a>
 </div>
