@@ -16,15 +16,8 @@
   <img align="center" alt="Gabby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br />
 
-
-
 <div align="center">
     <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabbyroba&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=material-palenight" />
   </a> 
 </div>
-
-
-
-
-
