@@ -20,7 +20,7 @@
 
 <img src="https://media.discordapp.net/attachments/1020872898048692295/1135651601676251176/Medium_Header.jpg?width=1440&height=360" target="_blank">
 
-<div>
+<div style="display: inline-block;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" " src="https://github-readme-stats.vercel.app/api?username=Gabbyroba&show_icons=true&theme=material-palenight" />
   </a>
