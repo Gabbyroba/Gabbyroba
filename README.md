@@ -1,4 +1,4 @@
-<header><img src="https://media.discordapp.net/attachments/1020872898048692295/1135651601676251176/Medium_Header.jpg?width=1440&height=360" target="_blank"></header>
+
 
 ### <h1 align ="center"> Olá, mundo! Gabby por aqui. 👋🏻 </h1>
 
